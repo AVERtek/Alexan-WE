@@ -1,4 +1,4 @@
-Alexan-WE-build-2
+Alexan West End XR
 
-Slider build version of Alexan West End
+Slider version of Alexan West End
 
